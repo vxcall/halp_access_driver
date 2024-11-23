@@ -18,4 +18,3 @@ include(${CPM_DOWNLOAD_LOCATION})
 
 # Add subdirectories
 add_subdirectory(km)
-add_subdirectory(um)
