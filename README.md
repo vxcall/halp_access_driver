@@ -1,6 +1,7 @@
-# vxdrv
+# halp_access_driver
 
-my research kernel driver to investigate HAL's private APIC functionality.
+A simple driver to retrieve HalpInterruptController.
+Just for my future use. Not useful at all as is
 
 # HalpInterruptController
 
